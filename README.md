@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[your-linkedin]" target="_blank">
+  <a href="https://www.linkedin.com/in/jaiguru2992" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
-  <a href="https://leetcode.com/[your-leetcode]" target="_blank">
+  <a href="https://leetcode.com/u/user3252B" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode">
   </a>
-  <a href="https://figma.com/@[your-figma]" target="_blank">
+  <a href="https://figma.com/@jaiguru" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma">
   </a>
 </p>
