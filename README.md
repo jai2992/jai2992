@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JAIGURU</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=02F78E&center=true&vCenter=true&width=600&lines=AI+%7C+ML+%7C+DL+Enthusiast;UI%2FUX+Designer;Open+Source+Contributor;Passionate+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=02F78E&center=true&vCenter=true&width=600&lines=AI+%7C+ML+%7C+DL+Enthusiast;Open+Source+Contributor;Passionate+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
